@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hello, welcome to my GitHub! 👋
 
-<!--
-**kndubois/kndubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+import SoftwareEngineer from '@kndubois'
 
-Here are some ideas to get you started:
+class Profile extends SoftwareEngineer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    name        = "Katie Dubois"
+    pronouns    = "She/Her"
+    location    = ["Canada", "United States"]
+    current_job = "Full-time Student"
+    education   = [
+          "Self-taught Developer and Designer",
+          "Diploma in Software Support",
+          "Advanced Diploma in Software Development",
+          "Bachelors in Software Engineering (in progress)"
+    ]
+
+    fields_of_interest = [
+          "UI/UX Design",
+          "HTML5 and CSS3 Development",
+          "Web Development",
+          "Open Source Contribution",
+          "Mobile Application Development"
+    ],
+
+    technical_background = [
+          "Full Stack Developer",
+          "Software Support Specialist"
+    ],
+
+    tech_stack = {
+        languages   = ["HTML5", "CSS3", "XML", "Python", "C++", "Java", "JavaScript", "PHP", "JSON",                       "Markdown", "SQL"]
+        frontend    = ["Bootstrap", "React", "VueJS"],
+        backend     = [".NET", "Flask", "Django"],
+        databases   = ["MySQL", "Postgres", "MongoDB"]
+        tools       = ["Git", "GitHub", "VS Code", "Visual Studio", "Azure", "AWS", "Postman",                             "Docker"]
+        ide         = ["VS Code", "IntelliJ IDEA"]
+    },
+
+    current_projects = [
+        "FinTrack: A personal finance tracker using Python",
+        "Portfolio Website: Showcasing my design and development skills"
+    ],
+
+    future_goals = ["Contribute more to open-source projects"],
+
+    hobbies = ["Traveling", "Photography", "Gaming", "Learning new tech"]
+}
+```
+
+# Thank you for visiting my GitHub profile!

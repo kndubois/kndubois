@@ -1,5 +1,5 @@
 
-# Hello, welcome to my GitHub! 👋
+# Hi, welcome to my GitHub! :)
 
 ```py
 from @kndubois import SoftwareEngineer
@@ -40,10 +40,10 @@ class Profile extends SoftwareEngineer:
         "backend": [".NET", "Flask", "Django"],
         "databases": ["MySQL", "Postgres", "MongoDB"],
         "tools": [
-            "Git", "GitHub", "VS Code", "Visual Studio", "Azure",
-            "AWS", "Postman", "Docker"
+            "Git", "GitHub", "Azure", "AWS", "Postman",
+            "Docker"
         ],
-        "ide": ["VS Code", "IntelliJ IDEA"]
+        "ide": ["VS Code", "Visual Studio", "IntelliJ IDEA"]
     }
 
     current_projects = [

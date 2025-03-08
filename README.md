@@ -34,7 +34,8 @@ class Profile extends SoftwareEngineer:
     tech_stack = {
         "languages": [
             "HTML5", "CSS3", "XML", "Python", "C++", 
-            "Java", "JavaScript", "PHP", "JSON", "Markdown", "SQL"
+            "Java", "JavaScript", "Mustache", "PHP",
+            "JSON", "Markdown", "SQL"
         ],
         "frontend": ["Bootstrap", "React", "VueJS"],
         "backend": [".NET", "Flask", "Django"],
@@ -48,6 +49,7 @@ class Profile extends SoftwareEngineer:
 
     current_projects = [
         "FinTrack: A personal finance tracker using Python",
+        "TravelPlanner: A personal trip planner",
         "Portfolio Website: Showcasing my design and development skills"
     ]
 

@@ -4,7 +4,7 @@
 ```py
 from @kndubois import SoftwareEngineer
 
-class Profile extends SoftwareEngineer:
+class Profile extends SoftwareEngineer {
 
     name        = "Katie Dubois"
     pronouns    = ["She", "Her", "Hers"]
